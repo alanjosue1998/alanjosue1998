@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, Me llamo Alan Guamán</h1>
-<h3 align="center">Me gusta tanto el frontend como el backend</h3>
+<h1 align="center">Hello 👋, My name is Alan Guamán</h1>
+<h3 align="center">I like both frontend and backend.</h3>
 
 - 👨‍💻 All of my projects are available at [https://alanjosue1998.github.io/Alan_Guaman_Portafolio/](https://alanjosue1998.github.io/Alan_Guaman_Portafolio/)
 
